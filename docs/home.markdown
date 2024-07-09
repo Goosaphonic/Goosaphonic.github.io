@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /home
+permalink: /home/
 ---
 
 This is the home page
