@@ -30,7 +30,7 @@ url: "https://goosaphonic.github.io/about" # the base hostname & protocol for yo
 github_username:  goosaphonic
 
 # Build settings
-theme: minima
+remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
   - jekyll-feed
 
